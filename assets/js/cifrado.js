@@ -45,5 +45,3 @@ function decipher(phrase){
 	phrase = phrase.toLowerCase();
 	alert(result);
 }
-
-
